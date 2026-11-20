@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Student Info System</string>
+
+    <!-- 1. Login -->
+    <string name="login_title">Student Info System</string>
+    <string name="login_subtitle">Please log in to continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <!-- Student form -->
+    <string name="title_student_form">Student Information</string>
+    <string name="section_student_no">Student No.</string>
+    <string name="section_student_name">Student Name</string>
+    <string name="section_academic_info">Student Academic Info</string>
+    <string name="student_no">Student No.</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="program">Program</string>
+    <string name="specialization">Specialization (if any)</string>
+    <string name="year_level">Year Level</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+
+    <string-array name="programs">
+        <item>BS Information Technology</item>
+        <item>BS Computer Science</item>
+        <item>BS Information Systems</item>
+        <item>BS Computer Engineering</item>
+        <item>BS Business Administration</item>
+        <item>BS Education</item>
+    </string-array>
+
+    <string-array name="year_levels">
+        <item>1st Year</item>
+        <item>2nd Year</item>
+        <item>3rd Year</item>
+        <item>4th Year</item>
+    </string-array>
+</resources>
