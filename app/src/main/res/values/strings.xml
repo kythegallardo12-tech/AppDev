@@ -17,11 +17,15 @@
     <string name="last_name">Last Name</string>
     <string name="first_name">First Name</string>
     <string name="middle_name">Middle Name</string>
+    <string name="section_gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
     <string name="program">Program</string>
     <string name="specialization">Specialization (if any)</string>
     <string name="year_level">Year Level</string>
     <string name="save">Save</string>
     <string name="clear">Clear</string>
+    <string name="back">← Back</string>
 
     <string-array name="programs">
         <item>BS Information Technology</item>
